@@ -12,7 +12,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Magadi Road Traffic Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Magadi+Road+Traffic+Police+Station/@12.9744657,77.5513379,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Magadi+Road+Traffic+Police+Station/@12.9744657,77.5513379,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3dfac414d677:0xd05c2056903bc7f9!8m2!3d12.9744657!4d77.5513379!16s%2Fg%2F1tkln_52",
     "phone": "080 2294 3010",
     "notes": "Phone matches Bengaluru Traffic Police listing for Magadi Road Traffic (22943010). Adjacent to Magadi Road Police Station in the Police Quarters."
   },
@@ -29,7 +29,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Vijayanagara Traffic Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Vijayanagara+Traffic+Police+Station/@12.9606915,77.5408251,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Vijayanagara+Traffic+Police+Station/@12.9606915,77.5408251,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3e0b13813881:0x7b3c06a534963b03!8m2!3d12.9606915!4d77.5408251!16s%2Fg%2F11dftpsrgj",
     "phone": "080 2294 2809",
     "notes": "Phone matches Bengaluru Traffic Police listing for Vijayanagar Traffic (22942809). OpenStreetMap way/1238631225 is the same building."
   },
@@ -46,7 +46,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Kamakshipalya Traffic Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Kamakshipalya+Traffic+Police+Station/@12.9820731,77.5332707,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Kamakshipalya+Traffic+Police+Station/@12.9820731,77.5332707,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3dc682b320a1:0x4949e374b80dffb5!8m2!3d12.9820731!4d77.5332707!16s%2Fg%2F11g1hk9phm",
     "phone": "080 2294 3009",
     "notes": "Phone matches Bengaluru Traffic Police listing for Kamakshipalya Traffic (22943009). Distinct from the Kamakshipalya law-and-order station."
   },
@@ -63,7 +63,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Jnanabharathi Traffic Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Jnanabharathi+Traffic+Police+Station/@12.9764907,77.5127298,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Jnanabharathi+Traffic+Police+Station/@12.9764907,77.5127298,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3d00054cb2e5:0x857c348cd092e261!8m2!3d12.9764907!4d77.5127298!16s%2Fg%2F11vz7ch3vj",
     "phone": "",
     "notes": "Nagarbhavi place pin. Distinct from Jnanabharathi Police Station on the Bangalore University campus."
   },
@@ -80,7 +80,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Magadi road police station",
-    "google_maps_url": "https://www.google.com/maps/place/Magadi+road+police+station/@12.9745239,77.5514375,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Magadi+road+police+station/@12.9745239,77.5514375,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3d00560a4741:0xd0d5b0209ac765d3!8m2!3d12.9745239!4d77.5514375!16s%2Fg%2F11m5lpzymn",
     "phone": "080 2294 2515",
     "notes": "Phone matches the Karnataka Police west-division directory for Magadi Road PS (22942515)."
   },
@@ -97,7 +97,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Kempapura Agrahara Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Kempapura+Agrahara+Police+Station/@12.9727873,77.5615006,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Kempapura+Agrahara+Police+Station/@12.9727873,77.5615006,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3dff33c589af:0x94285e9841323fff!8m2!3d12.9727873!4d77.5615006!16s%2Fg%2F1tcvs8_g",
     "phone": "080 2294 2518",
     "notes": "Google place name is Kempapura Agrahara Police Station, the expanded form of K.P. Agrahara. Phone matches the Karnataka Police directory (22942518)."
   },
@@ -114,7 +114,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Vijayanagar Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Vijayanagar+Police+Station/@12.9707709,77.5378026,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Vijayanagar+Police+Station/@12.9707709,77.5378026,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3ddde7c36e29:0xd041b12607746faf!8m2!3d12.9707709!4d77.5378026!16s%2Fg%2F11bzz4t997",
     "phone": "080 2294 2514",
     "notes": "Phone matches the Karnataka Police directory for Vijayanagar PS (22942514). OpenStreetMap node/1778917090 is the same station. Distinct from Vijayanagara Traffic Police Station."
   },
@@ -131,7 +131,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Govindarajanagar Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Govindarajanagar+Police+Station/@12.9718768,77.5293009,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Govindarajanagar+Police+Station/@12.9718768,77.5293009,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3ddecca3138f:0xcfbcc01b85f92c87!8m2!3d12.9718768!4d77.5293009!16s%2Fg%2F11rxwvp3gd",
     "phone": "",
     "notes": ""
   },
@@ -148,7 +148,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Basaveshwara Nagar Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Basaveshwara+Nagar+Police+Station/@12.9855362,77.5428014,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Basaveshwara+Nagar+Police+Station/@12.9855362,77.5428014,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3dbfb84e2725:0x4735b30434c62dd2!8m2!3d12.9855362!4d77.5428014!16s%2Fg%2F1td5vlnb",
     "phone": "080 2294 2516",
     "notes": "Phone matches the Karnataka Police directory (22942516). OpenStreetMap way/1458729111 is the same station."
   },
@@ -165,7 +165,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Kamakshipalya Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Kamakshipalya+Police+Station/@12.9822623,77.532016,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Kamakshipalya+Police+Station/@12.9822623,77.532016,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3dc6bdf07799:0xba17165a1c2087aa!8m2!3d12.9822623!4d77.532016!16s%2Fg%2F1td4n41z",
     "phone": "080 2294 2517",
     "notes": "Phone matches the Karnataka Police directory (22942517). Distinct from Kamakshipalya Traffic Police Station."
   },
@@ -182,7 +182,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Byadarahalli police station",
-    "google_maps_url": "https://www.google.com/maps/place/Byadarahalli+police+station/@12.98674,77.4914987,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Byadarahalli+police+station/@12.98674,77.4914987,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3d0073a47ed9:0xbe1c59df5721ad4b!8m2!3d12.98674!4d77.4914987!16s%2Fg%2F11wxbx5ycd",
     "phone": "",
     "notes": "OpenStreetMap node/4518518597 is the same station."
   },
@@ -199,7 +199,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Annapoorneshwari Nagar Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Annapoorneshwari+Nagar+Police+Station/@12.9654305,77.5100151,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Annapoorneshwari+Nagar+Police+Station/@12.9654305,77.5100151,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3c2c7062c153:0xda5ab29f46c199a2!8m2!3d12.9654305!4d77.5100151!16s%2Fg%2F11dx8nn30c",
     "phone": "080 2348 2644",
     "notes": "The 18 Nov 2026 gazette lists this station as Annapurneshwari Nagara PS. The Word document abbreviates it as A P Nagar. Phone matches the Karnataka Police directory for Annapurneshwari Nagar PS (23482644)."
   },
@@ -216,7 +216,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Jnanabharathi Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Jnanabharathi+Police+Station/@12.9506006,77.5003387,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Jnanabharathi+Police+Station/@12.9506006,77.5003387,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3e90a29326f9:0x8447e64c7436c78a!8m2!3d12.9506006!4d77.5003387!16s%2Fg%2F11bzyqwkg1",
     "phone": "080 2294 2513",
     "notes": "Phone matches the Karnataka Police directory (22942513). On the Bangalore University campus, not the Nagarbhavi traffic station."
   },
@@ -233,7 +233,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Malleshwaram Traffic Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Malleshwaram+Traffic+Police+Station/@12.9966667,77.5697222,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Malleshwaram+Traffic+Police+Station/@12.9966667,77.5697222,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae16244ea264cb:0x3def85279434f843!8m2!3d12.9966667!4d77.5697222!16s%2Fg%2F1tk4pllm",
     "phone": "080 2294 2810",
     "notes": "Adjacent to Malleshwara Police Station."
   },
@@ -250,7 +250,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Rajajinagara Traffic Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Rajajinagara+Traffic+Police+Station/@12.994626,77.5542172,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Rajajinagara+Traffic+Police+Station/@12.994626,77.5542172,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3d8e92ef4fa9:0xa5ab8ba1d0f5e30e!8m2!3d12.994626!4d77.5542172!16s%2Fg%2F1tdhcg9n",
     "phone": "080 2294 2807",
     "notes": "Distinct from Rajajinagar Police Station on Dr Rajkumar Road."
   },
@@ -267,7 +267,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Peenya traffic police station",
-    "google_maps_url": "https://www.google.com/maps/place/Peenya+traffic+police+station/@13.0360282,77.5212463,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Peenya+traffic+police+station/@13.0360282,77.5212463,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3dbb8032d0a7:0x4260e2d823203efd!8m2!3d13.0360282!4d77.5212463!16s%2Fg%2F11tnmypnj7",
     "phone": "080 2294 2674",
     "notes": "Phone matches Bengaluru Traffic Police listing for Peenya Traffic (22942674). Google places this pin on the same premises as Peenya Police Station."
   },
@@ -284,7 +284,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Sadashivanagar Traffic Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Sadashivanagar+Traffic+Police+Station/@13.0151739,77.5725897,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Sadashivanagar+Traffic+Police+Station/@13.0151739,77.5725897,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae17d26de09b4f:0x8d2ff1eb3db4cc6c!8m2!3d13.0151739!4d77.5725897!16s%2Fg%2F11cs5v7r8q",
     "phone": "",
     "notes": "About 30 metres from Sadashivanagara Police Station on New BEL Road."
   },
@@ -301,7 +301,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Malleshwara Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Malleshwara+Police+Station/@12.9966546,77.5696436,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Malleshwara+Police+Station/@12.9966546,77.5696436,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae17fcf7f8c8e9:0x97d5fefc24a1b1c0!8m2!3d12.9966546!4d77.5696436!16s%2Fg%2F11l20wslp9",
     "phone": "080 2294 2519",
     "notes": "Google place name uses the spelling Malleshwara. Adjacent to Malleshwaram Traffic Police Station. Street address was not shown beyond the locality and plus code XHW9+MV6."
   },
@@ -318,7 +318,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Subramanya Nagar Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Subramanya+Nagar+Police+Station/@13.0033841,77.5536737,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Subramanya+Nagar+Police+Station/@13.0033841,77.5536737,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3d845df85a35:0x523b6494916f5910!8m2!3d13.0033841!4d77.5536737!16s%2Fg%2F1tc_2jpv",
     "phone": "080 2294 2524",
     "notes": "OpenStreetMap way/1370050102 is the same station."
   },
@@ -335,7 +335,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Srirampura Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Srirampura+Police+Station/@12.9900114,77.5650232,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Srirampura+Police+Station/@12.9900114,77.5650232,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae1621b4aedc51:0x67d354f00459e5f0!8m2!3d12.9900114!4d77.5650232!16s%2Fg%2F1tcw_zl4",
     "phone": "080 2294 2520",
     "notes": "The Word document marks this station with an asterisk. OpenStreetMap way/271785239 is the same station."
   },
@@ -352,7 +352,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Rajajinagar Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Rajajinagar+Police+Station/@12.9947934,77.5541543,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Rajajinagar+Police+Station/@12.9947934,77.5541543,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3d0029173c75:0xeec3ef970314c81a!8m2!3d12.9947934!4d77.5541543!16s%2Fg%2F11w20325mj",
     "phone": "080 2294 2522",
     "notes": "Distinct from Rajajinagara Traffic Police Station."
   },
@@ -369,7 +369,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Mahalakshmi Layout Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Mahalakshmi+Layout+Police+Station/@13.0027497,77.5473693,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Mahalakshmi+Layout+Police+Station/@13.0027497,77.5473693,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3d9ba188cecd:0x99f3973762fae5a9!8m2!3d13.0027497!4d77.5473693!16s%2Fg%2F1tg852hz",
     "phone": "080 2294 2523",
     "notes": "OpenStreetMap way/781541656 names the same building Mahalakshmipuram Police Station. The Google place title matches the document name."
   },
@@ -386,7 +386,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Nandini Layout Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Nandini+Layout+Police+Station/@13.0123692,77.536767,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Nandini+Layout+Police+Station/@13.0123692,77.536767,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3d0afd755999:0x49ccde0550741331!8m2!3d13.0123692!4d77.536767!16s%2Fg%2F1tkjjmx3",
     "phone": "080 2294 2539",
     "notes": "OpenStreetMap node/2090827123 is the same station."
   },
@@ -403,7 +403,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Rajagopal Nagar Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Rajagopal+Nagar+Police+Station/@13.0173501,77.513571,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Rajagopal+Nagar+Police+Station/@13.0173501,77.513571,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3cfd03f9dd03:0xac4370c8540d91f4!8m2!3d13.0173501!4d77.513571!16s%2Fg%2F1tdz7vx3",
     "phone": "080 2294 2525",
     "notes": "Google address line includes the locality text KG Nagar at Laggere. That is not K.G. Nagara Police Station, which is plotted separately at Kempegowda Nagar."
   },
@@ -420,7 +420,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Peenya Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Peenya+Police+Station/@13.0360196,77.5212291,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Peenya+Police+Station/@13.0360196,77.5212291,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3d215b4d9a2f:0x1939cb8c4515e1c!8m2!3d13.0360196!4d77.5212291!16s%2Fg%2F1tfjtqkg",
     "phone": "080 2294 2532",
     "notes": "OpenStreetMap node/1794656846 is the same station. Shares the premises with Peenya Traffic Police Station."
   },
@@ -437,7 +437,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Madanayakanahalli Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Madanayakanahalli+Police+Station/@13.0622274,77.4623335,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Madanayakanahalli+Police+Station/@13.0622274,77.4623335,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae24af634dd6ab:0x2bbf3e217a89d25d!8m2!3d13.0622274!4d77.4623335!16s%2Fg%2F1tfhdw5y",
     "phone": "080 2371 3699",
     "notes": "Place title matches the station name. The pin is at Madanayakanahalli on the north-western edge of Bengaluru."
   },
@@ -454,7 +454,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Sadashivanagara Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Sadashivanagara+Police+Station/@13.0148786,77.5725875,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Sadashivanagara+Police+Station/@13.0148786,77.5725875,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae17d2702440db:0xbae318eeb5eb6b6!8m2!3d13.0148786!4d77.5725875!16s%2Fg%2F1tgwqq4t",
     "phone": "080 2294 2589",
     "notes": "OpenStreetMap way/772835104 (Sadhashivanagar Police Station) is the same station. Distinct from the traffic station pin."
   },
@@ -471,7 +471,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Byatarayanapura Traffic Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Byatarayanapura+Traffic+Police+Station/@12.9505097,77.5407324,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Byatarayanapura+Traffic+Police+Station/@12.9505097,77.5407324,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3feb42395d87:0x6559438d5abc460e!8m2!3d12.9505097!4d77.5407324!16s%2Fg%2F11hdk1bj5_",
     "phone": "080 2294 3011",
     "notes": "This is the Mysore Road / Banashankari station, not Byatarayanapura near Yelahanka. Phone matches Bengaluru Traffic Police (22943011)."
   },
@@ -488,7 +488,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Kengeri Traffic Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Kengeri+Traffic+Police+Station/@12.8841732,77.4495422,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Kengeri+Traffic+Police+Station/@12.8841732,77.4495422,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae38bda8fac93d:0x7b036da60f01f17d!8m2!3d12.8841732!4d77.4495422!16s%2Fg%2F11z8ss4qjl",
     "phone": "080 2294 3013",
     "notes": "Phone matches Bengaluru Traffic Police (22943013). Google places this station at Kumbalagodu, beside Kumbalagodu Police Station, not in Kengeri Satellite Town."
   },
@@ -522,7 +522,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Byatarayanapura Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Byatarayanapura+Police+Station/@12.9513666,77.5399857,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Byatarayanapura+Police+Station/@12.9513666,77.5399857,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3e12c53e89c3:0x72e3f06999bab727!8m2!3d12.9513666!4d77.5399857!16s%2Fg%2F1tdzdfjg",
     "phone": "080 2294 2507",
     "notes": "Mysore Road / Banashankari station. Phone matches the Karnataka Police directory (22942507). Not the northern Byatarayanapura near Yelahanka."
   },
@@ -539,7 +539,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Chandra Layout Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Chandra+Layout+Police+Station/@12.9589247,77.528507,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Chandra+Layout+Police+Station/@12.9589247,77.528507,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3e774b93b327:0xfe6407d7a3b3757f!8m2!3d12.9589247!4d77.528507!16s%2Fg%2F1tfwbysw",
     "phone": "080 2294 2512",
     "notes": "Phone matches the Karnataka Police directory (22942512). OpenStreetMap node/11917792343 is the same station."
   },
@@ -556,7 +556,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Girinagara Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Girinagara+Police+Station/@12.9360036,77.543932,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Girinagara+Police+Station/@12.9360036,77.543932,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3e3ecadc69f7:0x23c2c7a4c7b08a59!8m2!3d12.9360036!4d77.543932!16s%2Fg%2F1tmckp3r",
     "phone": "080 2294 2577",
     "notes": "OpenStreetMap node/953626886 is the same station."
   },
@@ -573,7 +573,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Hanumantha Nagar Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Hanumantha+Nagar+Police+Station/@12.9363279,77.5614326,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Hanumantha+Nagar+Police+Station/@12.9363279,77.5614326,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3e2767ff6529:0x76e38dc7d3b7cba0!8m2!3d12.9363279!4d77.5614326!16s%2Fg%2F124yccb6f",
     "phone": "080 2294 2576",
     "notes": ""
   },
@@ -590,7 +590,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Chennamanakere Achukattu Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Chennamanakere+Achukattu+Police+Station/@12.930109,77.5607025,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Chennamanakere+Achukattu+Police+Station/@12.930109,77.5607025,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3e284072ff01:0x1e88512e4bff323!8m2!3d12.930109!4d77.5607025!16s%2Fg%2F1tn4wm5l",
     "phone": "080 2294 3483",
     "notes": "C.K. Achukattu is the abbreviation of Chennamanakere Achukattu. OpenStreetMap node/4444115045 uses that full name for the same station."
   },
@@ -607,7 +607,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Kempegowda Nagar Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Kempegowda+Nagar+Police+Station/@12.9495236,77.5632855,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Kempegowda+Nagar+Police+Station/@12.9495236,77.5632855,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae15f60c5afa07:0x8cbce83d04d04874!8m2!3d12.9495236!4d77.5632855!16s%2Fg%2F1tycv27w",
     "phone": "080 2294 2578",
     "notes": "Gazette name is K.G. Nagara PS, grouped with Girinagar, Hanumanthanagar and C.K. Achukattu. Google titles the station Kempegowda Nagar Police Station, on KG Nagar Main Road. A different Google result in Wilson Garden was rejected."
   },
@@ -624,7 +624,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Kengeri Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Kengeri+Police+Station/@12.9104949,77.4815961,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Kengeri+Police+Station/@12.9104949,77.4815961,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3ec3a96cb207:0x510336643cb96fe5!8m2!3d12.9104949!4d77.4815961!16s%2Fg%2F1tfpy8_5",
     "phone": "080 2294 2510",
     "notes": "Phone matches the Karnataka Police directory (22942510). OpenStreetMap node/11248318176 is the same station. This is not the Kengeri Traffic pin at Kumbalagodu."
   },
@@ -641,7 +641,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "RajaRajeshwari Nagar Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/RajaRajeshwari+Nagar+Police+Station/@12.912933,77.5206829,17z",
+    "google_maps_url": "https://www.google.com/maps/place/RajaRajeshwari+Nagar+Police+Station/@12.912933,77.5206829,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3fabe04ce5a9:0xccf0b282a9ec7357!8m2!3d12.912933!4d77.5206829!16s%2Fg%2F1tdb2qh8",
     "phone": "",
     "notes": "OpenStreetMap way/1443188659 is the same station."
   },
@@ -658,7 +658,7 @@
     "source": "Google Maps",
     "coordinate_verified": true,
     "google_place_name": "Kumbalagudu Police Station",
-    "google_maps_url": "https://www.google.com/maps/place/Kumbalagudu+Police+Station/@12.8841779,77.4495108,17z",
+    "google_maps_url": "https://www.google.com/maps/place/Kumbalagudu+Police+Station/@12.8841779,77.4495108,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae389ef2a3ad99:0xc0be1a1c79a38a3!8m2!3d12.8841779!4d77.4495108!16s%2Fg%2F124s_9y02",
     "phone": "080 2843 7599",
     "notes": "The Word document spells this Kumblugodu. Google and the 18 Nov 2026 gazette use Kumbalagodu / Kumbalagudu. The pin is beside Kengeri Traffic Police Station. OpenStreetMap way/1050574678 is the same station."
   }
