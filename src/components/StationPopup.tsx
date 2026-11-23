@@ -1,13 +1,19 @@
+import type { MouseEvent } from "react";
 import type { Station } from "../types/station";
 import { typeLabel } from "../types/station";
 import { formatCoordinate } from "../utils/geocoding";
 
 function mapsUrl(station: Station): string {
-  if (station.google_maps_url) return station.google_maps_url;
-  if (station.latitude != null && station.longitude != null) {
-    return `https://www.google.com/maps/search/?api=1&query=${station.latitude},${station.longitude}`;
-  }
-  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${station.name} Bengaluru`)}`;
+  if (station.google_maps_url.includes("!1s")) return station.google_maps_url;
+  const place = station.google_place_name.trim() || `${station.name} Bengaluru`;
+  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(place)}`;
+}
+
+function openMaps(event: MouseEvent<HTMLAnchorElement>, url: string) {
+  event.preventDefault();
+  event.stopPropagation();
+  const opened = window.open(url, "_blank", "noopener,noreferrer");
+  if (!opened) window.location.assign(url);
 }
 
 export function StationPopup({ station }: { station: Station }) {
@@ -39,7 +45,14 @@ export function StationPopup({ station }: { station: Station }) {
         <dd>{station.source}</dd>
         <dt>Location</dt>
         <dd>
-          <a className="popup-link" href={locationUrl} target="_blank" rel="noopener noreferrer">
+          <a
+            className="popup-link"
+            href={locationUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            onMouseDown={(event) => event.stopPropagation()}
+            onClick={(event) => openMaps(event, locationUrl)}
+          >
             Open in Google Maps
           </a>
         </dd>
